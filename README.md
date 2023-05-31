@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**Martin-Lndbl/Martin-Lndbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Martin Lindbüchl, B.Sc. Informatics student at TUM.
 
-Here are some ideas to get you started:
+I just recently stumbled upon Nix at my working student job at ESG ✈️
+and am spending way to much time on it since.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My key insterests are Distributed Systems, Software Engineering and Cyber Security.
+
+### GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width=485 src="https://github-readme-stats.vercel.app/api?username=Martin-Lndbl&theme=github_dark&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-Lndbl&layout=compact&theme=github_dark&langs_count=8&hide=Vim%20script,Emacs%20Lisp,CMake,Makefile,Yacc,Lex" >
+</a>
+
