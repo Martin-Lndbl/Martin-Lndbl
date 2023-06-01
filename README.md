@@ -1,8 +1,8 @@
 ### Here goes Nix
 
-Hey there 👋 I'm Martin Lindbüchl, B.Sc. Informatics student at TUM.
+Hey there 👋 I'm Martin Lindbüchl, B.Sc. Informatics student at [TUM](https://www.tum.de).
 
-I just recently stumbled upon Nix at my working student job at ESG ✈️
+I just recently stumbled upon Nix at my working student job at [ESG](https://esg.de/) ✈️
 and am spending way to much time on it since.
 
 My key insterests are Distributed Systems, Software Engineering and Cyber Security.
