@@ -1,6 +1,6 @@
-### Hey there 👋
+### Here goes Nix
 
-I'm Martin Lindbüchl, B.Sc. Informatics student at TUM.
+Hey there 👋 I'm Martin Lindbüchl, B.Sc. Informatics student at TUM.
 
 I just recently stumbled upon Nix at my working student job at ESG ✈️
 and am spending way to much time on it since.
