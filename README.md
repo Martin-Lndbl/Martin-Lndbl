@@ -9,9 +9,9 @@ My key insterests are Distributed Systems, Software Engineering and Cyber Securi
 
 ### GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=485 src="https://github-readme-stats.vercel.app/api?username=Martin-Lndbl&theme=github_dark&count_private=true&show_icons=true" />
+  <img align="center" width=485 src="https://github-readme-stats.vercel.app/api?username=Martin-Lndbl&theme=vision-friendly-dark&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-Lndbl&layout=compact&theme=github_dark&langs_count=8&hide=Vim%20script,Emacs%20Lisp,CMake,Makefile,Yacc,Lex" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-Lndbl&layout=compact&theme=vision-friendly-dark&langs_count=8&hide=Vim%20script,Emacs%20Lisp,CMake,Makefile,Yacc,Lex" >
 </a>
 
