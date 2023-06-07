@@ -1,6 +1,7 @@
 <h1 align="center">Here goes Nix</h1>
 
-Hey there 👋 I'm Martin Lindbüchl, B.Sc. Informatics student at [TUM](https://www.tum.de).
+### Hey there 👋 
+I'm Martin Lindbüchl, B.Sc. Informatics student at [TUM](https://www.tum.de).
 
 I just recently stumbled upon Nix at my working student job at [ESG](https://esg.de/) ✈️
 and am spending way to much time on it since.
