@@ -42,6 +42,20 @@ and am spending way to much time on it since.
 <a href="https://www.oracle.com/technetwork/java/index.html" title="Java" style="display:flex;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width=25 height=25>
 </a>
+<a href="https://nodejs.org/" title="NodeJS" style="display:flex;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width=25 height=25>
+</a>
+<!--
+  <a href="https://www.javascript.com/" title="JavaScript" style="display:flex;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width=25 height=25>
+</a>
+<a href="https://www.typescriptlang.org/" title="TypeScript" style="display:flex;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width=25 height=25>
+</a>
+-->
+<a href="https://react.dev/" title="React" style="display:flex;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width=25 height=25>
+</a>
 <a href="https://www.latex-project.org/" title="LaTeX" style="display:flex;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width=25 height=25>
 </a>
