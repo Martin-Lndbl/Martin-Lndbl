@@ -1,4 +1,4 @@
-<h1 align="center">Here goes Nix</h1>
+<h1 align="left">Here goes Nix</h1>
 
 Hey there 👋 I'm Martin Lindbüchl, B.Sc. Informatics student at the [Technical University of Munich](https://www.tum.de).
 
