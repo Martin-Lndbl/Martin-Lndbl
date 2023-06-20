@@ -4,9 +4,9 @@ Hey there 👋 I'm Martin Lindbüchl, B.Sc. Informatics student at the [Technica
 
 I just recently stumbled upon Nix at my working student job at [ESG](https://esg.de/) ✈️
 and am spending way to much time on it since.
-
-[<img align="right" width=50% src="https://github-readme-stats.vercel.app/api?username=Martin-Lndbl&theme=dark&count_private=true" />](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
+[<img align="right" width=50% src="https://github-readme-stats.vercel.app/api?username=Martin-Lndbl&theme=dark&count_private=true&rank_icon=percentile" />](https://github.com/anuraghazra/github-readme-stats)
+-->
 #### What I'm interested in
 * Systems Programming
 * Distributed Systems
