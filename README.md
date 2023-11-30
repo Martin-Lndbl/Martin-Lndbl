@@ -2,7 +2,7 @@
 
 Hey there 👋 I'm Martin Lindbüchl, B.Sc. Informatics student at the [Technical University of Munich](https://www.tum.de).
 
-Currently studying at [Kyoto University](https://www.kyoto-u.ac.jp/en) in Japan.
+Currently on exchange, studying at [Kyoto University](https://www.kyoto-u.ac.jp/en) in Japan.
 
 <!--
 [<img align="right" width=50% src="https://github-readme-stats.vercel.app/api?username=Martin-Lndbl&theme=dark&count_private=true&rank_icon=percentile" />](https://github.com/anuraghazra/github-readme-stats)
