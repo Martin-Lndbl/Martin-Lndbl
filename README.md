@@ -9,8 +9,9 @@ Currently on exchange, studying at [Kyoto University](https://www.kyoto-u.ac.jp/
 -->
 #### What I'm interested in
 * Systems Programming
-* Distributed Systems
-* Software Engineering
+* High Performance Computing 
+* Artificial Intelligence
+* Robotics
 * Cyber Security
 * Normal people stuff
 
