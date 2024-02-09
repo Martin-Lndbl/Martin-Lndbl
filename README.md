@@ -26,7 +26,7 @@ Currently on exchange, studying at [Kyoto University](https://www.kyoto-u.ac.jp/
 <a href="https://neovim.io/" title="Neovim" style="display:flex;">
   <img src="https://github.com/neovim/neovim.github.io/blob/master/logos/neovim-mark-flat.svg" alt="Neovim" width=25 height=25>
 </a>
-<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width=25 height=25>
+<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width=25 height=25>
 </a>
 <a href="https://www.gnu.org/software/bash/" title="bash" style="display:flex;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width=25 height=25>
