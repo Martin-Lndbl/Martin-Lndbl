@@ -2,15 +2,14 @@
 
 Hey there 👋 I'm Martin Lindbüchl, B.Sc. Informatics student at the [Technical University of Munich](https://www.tum.de).
 
-Currently doing an Internship at BMW and writing my Bachelor's Thesis.
+Currently writing my Bachelor's Thesis at the [Systems Research Group @ TUM](https://github.com/TUM-DSE).
 
 <!--
 [<img align="right" width=50% src="https://github-readme-stats.vercel.app/api?username=Martin-Lndbl&theme=dark&count_private=true&rank_icon=percentile" />](https://github.com/anuraghazra/github-readme-stats)
 -->
 #### What I'm interested in
 * Systems Programming
-* High Performance Computing 
-* Artificial Intelligence
+* High Performance Computing
 * Robotics
 * Cyber Security
 * Normal people stuff
